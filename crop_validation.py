@@ -23,4 +23,4 @@ def validate_crop_input(data):
         if value < 0:
             return False
 
-    return True
+    return False
